@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a40efc4fb95c8894cbf09f9e9ec05c24
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Potta One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bc53828d2c048d64dbc105826432dbb0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

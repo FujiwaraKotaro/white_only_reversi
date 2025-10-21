@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 79f7743d6ae186c4d9ca5c8e84ce5357
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blackDisk: {fileID: 1559050836030887614, guid: 01671d89568405946b3ed7252fed4148, type: 3}
+  - whiteDisk: {fileID: 2902946317363412987, guid: e68c33d657d546f4bbffc51516ebd6e5, type: 3}
+  - pointer: {fileID: 1559050836030887614, guid: 038f394068084a343acd115288ee28e6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
